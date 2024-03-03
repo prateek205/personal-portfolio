@@ -29,8 +29,8 @@ This repository contains the source code and assets for my personal portfolio we
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Installation
