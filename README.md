@@ -33,13 +33,13 @@ This repository contains the code for my personal portfolio website. The website
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/prateek205/personal-portfolio.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-portfolio
+   cd personal-portfolio
    ```
 
 3. Open `index.html` in your preferred browser to view the website locally.
