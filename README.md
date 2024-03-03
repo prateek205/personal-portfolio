@@ -13,10 +13,6 @@ This repository contains the code for my personal portfolio website. The website
 - [Customization](#customization)
 - [License](#license)
 
-## Demo
-
-You can access the live demo of my portfolio website [here](#).
-
 ## Features
 
 - **Responsive Design:** The website is designed to be accessible and user-friendly on various devices and screen sizes.
@@ -31,7 +27,7 @@ You can access the live demo of my portfolio website [here](#).
 - **HTML:** Structure of the website.
 - **CSS:** Styling and layout.
 - **JavaScript:** Interactivity and dynamic content.
-- **Google Sheets API:** Handling and storing inquiry data.
+- **Google Sheets API:** Handling and storing enquiry data.
 
 ## Setup
 
