@@ -4,7 +4,6 @@ This repository contains the code for my personal portfolio website. The website
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
