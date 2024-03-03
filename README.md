@@ -1,80 +1,69 @@
-Creating a comprehensive and informative README.md file for your personal portfolio website is crucial for anyone who might collaborate with you or wants to understand your project. Here's a template you can use as a starting point:
+# Personal Portfolio Responsive Website
 
-# Personal Portfolio Website
-
-This is the repository for my personal portfolio website. The website is designed to showcase my skills, projects, and experiences as a web developer.
+This repository contains the code for my personal portfolio website. The website is built using HTML, CSS, and JavaScript to showcase my skills, projects, and achievements. Additionally, Google Sheets integration is implemented to handle user inquiries.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Setup](#setup)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Google Sheet Integration](#google-sheet-integration)
+- [Customization](#customization)
 - [License](#license)
 
-## Introduction
+## Demo
 
-This repository contains the source code and assets for my personal portfolio website. The website is built using HTML, CSS, and JavaScript to create a responsive and visually appealing user experience.
+You can access the live demo of my portfolio website [here](#).
 
 ## Features
 
-- Responsive design for various devices (desktop, tablet, mobile).
-- Sections to showcase my skills, projects, and experiences.
-- Contact form for easy communication.
-- Smooth navigation with JavaScript-enhanced interactions.
-- Interactive elements to engage visitors.
+- **Responsive Design:** The website is designed to be accessible and user-friendly on various devices and screen sizes.
+- **Project Showcase:** Display your projects with images, descriptions, and links to the respective repositories or live demos.
+- **Skills Section:** Highlight your skills and proficiency in different technologies.
+- **About Me:** Provide a brief introduction about yourself and your career goals.
+- **Contact Form:** Users can send inquiries directly through the website, and the data is stored in a Google Sheet for easy management.
+- **Smooth Scrolling:** Enhance the user experience with smooth scrolling navigation.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- **HTML:** Structure of the website.
+- **CSS:** Styling and layout.
+- **JavaScript:** Interactivity and dynamic content.
+- **Google Sheets API:** Handling and storing inquiry data.
 
-## Installation
+## Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prateek205/personal-portfolio.git
+   git clone https://github.com/your-username/your-portfolio.git
    ```
 
-2. Open the project folder:
+2. Navigate to the project directory:
 
    ```bash
-   cd personal-portfolio
+   cd your-portfolio
    ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. Open `index.html` in your preferred browser to view the website locally.
 
 ## Usage
 
-Feel free to use this project as a template for your own personal portfolio. Modify the content in the HTML files, update the styles in the CSS files, and add your own JavaScript enhancements.
+Customize the content of the website by modifying the HTML files. Update the CSS for styling adjustments, and use JavaScript to enhance interactivity.
 
-You can customize the following sections in the HTML files:
+## Google Sheet Integration
 
-- **About Me**: Update information about yourself.
-- **Skills**: List your technical skills.
-- **Projects**: Showcase your completed projects.
-- **Experience**: Detail your work or educational experiences.
+To set up Google Sheet integration for enquiries:
 
-## Project Structure
+1. Create a Google Sheet and obtain the Google Sheets API key.
+2. Update the `googleSheet.js` file with your API key and spreadsheet ID.
 
-- `index.html`: Main HTML file.
-- `styles/`: Folder containing CSS files.
-- `scripts/`: Folder containing JavaScript files.
-- `images/`: Folder for project images.
+## Customization
 
-## Contributing
-
-If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request. Contributions are welcome!
+Feel free to customize the website to reflect your personal style and preferences. Modify the color scheme, fonts, and content to make it unique to you.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to tailor this template to fit the specific details of your personal portfolio website. Include any additional information you find relevant or important for users and collaborators.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and commercial purposes.
